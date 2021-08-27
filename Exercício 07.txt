@@ -1,0 +1,16 @@
+1 - Escreva um programa que receba 3 valores inteiros e mostre o maior e o menor deles.
+
+2 - Solicitar ao usuário que digite as medidas dos três lados de um triângulo. Caso as medidas fornecidas não caracterizem um triângulo, avisar o usuário. Se for um triângulo, determinar se é um triângulo ISÓSCELES, ESCALENO ou EQUILÁTERO.
+
+O que caracteriza um triângulo?
+
+- Possui três lados (A, B e C)
+- A soma de dois lados deve ser maior do que a do terceiro, por exemplo:
+  A + B > C
+  B + C > A
+  C + A > B
+
+- ISÓSCELES  = Quando dois lados forem iguais e um diferente;
+- ESCALENO   = Quando todos os lados forem diferentes;
+- EQUILÁTERO = Quando todos os lados forem iguais.
+ 
